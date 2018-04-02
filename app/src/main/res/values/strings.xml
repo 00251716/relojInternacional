@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MiPrimerApp</string>
+    <string name="edit_message">Edit Message</string>
+    <string name="button_send">Send</string>
+    <string name="text_city_example">2 April, San Salvador</string>
+    <string name="activity_main_title">Titulo 1</string>
+    <string name="text_city_london">London</string>
+    <string name="text_city_beijing">Beijing</string>
+    <string name="text_city_newyork">New York</string>
+    <string name="power_by_nestor">Power By Néstor</string>
+</resources>
